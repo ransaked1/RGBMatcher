@@ -10,3 +10,8 @@ Make sure you have python installed:
 ```
 sudo apt-get install python3
 ```
+
+Install the required packages:
+```
+pip3 install -r requirements.txt
+```
