@@ -1,6 +1,8 @@
 # RGB Matcher
 This is a weekend project that had as goal synchronizing my RGB lighting to the color of my live wallpapers. In the end it was a pretty simple Python script and a long leacture about color theory. Bellow is a demo and a full blog post about this project is coming soon.
 
+![](https://github.com/ransaked1/RGBMatcher/blob/master/RGBMaker.gif)
+
 ## Getting Started
 Clone the repository and install the prerequisites.
 
