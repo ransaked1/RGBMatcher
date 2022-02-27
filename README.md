@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```
 ## Usage
 
-Add the script to the windows startup.
+Add the script to the windows startup and restart your computer.
 
 ## Built With
 * [Colorthief](https://pypi.org/project/colorthief/) - color pallete generator from image
