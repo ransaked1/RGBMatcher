@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 Add the script to the windows startup and restart your computer.
 
 ## Built With
-* [Colorthief](https://pypi.org/project/colorthief/) - color pallete generator from image
-* [Watchdog](https://pypi.org/project/watchdog/) - observer to track changes to the wallpaper
+* [Colorthief](https://pypi.org/project/colorthief/) - Color pallete generator from image
+* [Watchdog](https://pypi.org/project/watchdog/) - Observer to track changes to the wallpaper
 * [Govee API](https://pypi.org/project/govee-api-laggat/) - Govee API to control the Govee RGB Lights
 * [LogyPi](https://github.com/Logitech/logiPy) - Python wrapper for the Logitech RGB devices
