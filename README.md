@@ -1,5 +1,5 @@
 # RGB Matcher
-This is a weekend project that had as goal synchronizing my RGB lighting to the color of my live wallpapers. In the end it was a pretty simple Python script and a long leacture about color theory. Bellow is a demo and a full blog post about this project is coming soon.
+This is a weekend project that had as goal synchronizing my RGB lighting to the color of my live wallpapers. In the end it was a pretty simple Python script and a long leacture about color theory. Bellow is a demo and check out [this blog post](https://codenoodles.com/match-rgb-lights-to-wallpaper-engine-colors-with-python/) that explains how you can get started with your own implementation.
 
 ![](https://github.com/ransaked1/RGBMatcher/blob/master/RGBMaker.gif)
 
